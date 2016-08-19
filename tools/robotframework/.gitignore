@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/requirements.txt
+/tests/*
+!/tests/*.robot
+!/tests/*.py

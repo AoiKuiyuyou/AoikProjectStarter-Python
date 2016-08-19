@@ -1,0 +1,14 @@
+/*
+!/.gitignore
+!/LICENSE.txt
+!/README.md
+!/README.src.md
+!/setup.cfg
+!/setup.py
+!/screenshot
+!/src
+!/tools
+__pycache__
+*.cache
+*.egg-info
+*.pyc
